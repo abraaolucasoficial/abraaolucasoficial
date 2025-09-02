@@ -14,9 +14,6 @@ Foco em **Java e Cloud Computing** | Em busca de aprendizado contínuo
 
 ---
 
-## 📂 Projetos de destaque
-- [Calculadora em Java](https://github.com/seu-usuario/calculadora-java) – Projeto simples de lógica de programação em Java
-- [Sistema de Cadastro de Alunos](https://github.com/seu-usuario/sistema-academico) – Projeto acadêmico para praticar CRUD
 
 ---
 
